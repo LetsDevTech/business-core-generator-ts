@@ -1,0 +1,23 @@
+{
+  "name": "business-core-generator-ts",
+  "version": "1.0.0",
+  "description": "Example Typescript implementation of the business-core-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetsDevTech/business-core-generator-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetsDevTech/business-core-generator-ts/issues"
+  },
+  "homepage": "https://github.com/LetsDevTech/business-core-generator-ts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
